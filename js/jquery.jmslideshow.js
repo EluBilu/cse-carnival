@@ -3,7 +3,7 @@
 	/*
 	 * JMSlideshow object
 	 */
-	$.JMSlideshow 				= function( options, element ) {
+	$.JMSlideshow = function( options, element ) {
 		
 		// the jms-slideshow
 		this.$el	= $( element );
